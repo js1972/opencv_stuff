@@ -1,5 +1,6 @@
 #
-# Detect people using HOG (Histograms of Oriented Gradients - http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf) and SVM classifer
+# Detect people using HOG (Histograms of Oriented Gradients - http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf) and SVM classifer.
+# Reads images from specified directory. Future work - change it to use camera!
 # See blog post: http://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 #
 
